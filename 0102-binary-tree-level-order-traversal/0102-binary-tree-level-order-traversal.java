@@ -33,7 +33,7 @@ class Solution {
                     q.add(currNode.right);
                 }
              }
-             result.add(new ArrayList<>(currlevel));
+             result.add(currlevel);
 
         }
         return result;
