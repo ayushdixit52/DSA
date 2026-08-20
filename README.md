@@ -5,6 +5,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushdixit52/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ayushdixit52/DSA/tree/master/0112-path-sum) |
@@ -17,6 +18,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ayushdixit52/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ayushdixit52/DSA/tree/master/0113-path-sum-ii) |
@@ -28,6 +30,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushdixit52/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ayushdixit52/DSA/tree/master/0112-path-sum) |
@@ -74,4 +77,8 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/ayushdixit52/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ayushdixit52/DSA/tree/master/0257-binary-tree-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
