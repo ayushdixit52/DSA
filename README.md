@@ -16,6 +16,7 @@
 | [0437-path-sum-iii](https://github.com/ayushdixit52/DSA/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/ayushdixit52/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushdixit52/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0437-path-sum-iii](https://github.com/ayushdixit52/DSA/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/ayushdixit52/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushdixit52/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushdixit52/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
