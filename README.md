@@ -75,6 +75,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ayushdixit52/DSA/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/ayushdixit52/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/ayushdixit52/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ayushdixit52/DSA/tree/master/0047-permutations-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/ayushdixit52/DSA/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
