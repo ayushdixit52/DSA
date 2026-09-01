@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushdixit52/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/ayushdixit52/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ayushdixit52/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushdixit52/DSA/tree/master/0047-permutations-ii) |
 ## Binary Search
@@ -85,6 +86,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/ayushdixit52/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ayushdixit52/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushdixit52/DSA/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/ayushdixit52/DSA/tree/master/0113-path-sum-ii) |
