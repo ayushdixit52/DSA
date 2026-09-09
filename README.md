@@ -61,6 +61,7 @@
 | [0112-path-sum](https://github.com/ayushdixit52/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ayushdixit52/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushdixit52/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0040-combination-sum-ii](https://github.com/ayushdixit52/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ayushdixit52/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushdixit52/DSA/tree/master/0047-permutations-ii) |
+| [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ayushdixit52/DSA/tree/master/0115-distinct-subsequences) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
