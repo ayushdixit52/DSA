@@ -123,4 +123,12 @@
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ayushdixit52/DSA/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ayushdixit52/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
