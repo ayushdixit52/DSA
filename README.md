@@ -69,6 +69,7 @@
 | [0040-combination-sum-ii](https://github.com/ayushdixit52/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ayushdixit52/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushdixit52/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/ayushdixit52/DSA/tree/master/0051-n-queens) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
@@ -91,6 +92,7 @@
 | [0040-combination-sum-ii](https://github.com/ayushdixit52/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ayushdixit52/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushdixit52/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/ayushdixit52/DSA/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/ayushdixit52/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ayushdixit52/DSA/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
@@ -131,4 +133,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayushdixit52/DSA/tree/master/0050-powx-n) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ayushdixit52/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
