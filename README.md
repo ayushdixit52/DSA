@@ -70,6 +70,7 @@
 | [0046-permutations](https://github.com/ayushdixit52/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushdixit52/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ayushdixit52/DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/ayushdixit52/DSA/tree/master/0078-subsets) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
@@ -93,6 +94,7 @@
 | [0046-permutations](https://github.com/ayushdixit52/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushdixit52/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ayushdixit52/DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/ayushdixit52/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/ayushdixit52/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ayushdixit52/DSA/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ayushdixit52/DSA/tree/master/0051-n-queens) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ayushdixit52/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
