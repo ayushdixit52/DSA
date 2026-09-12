@@ -1,23 +1,21 @@
 class Solution {
-    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        List < List < Integer >> ans = new ArrayList < > ();
-        Arrays.sort(candidates);
-        findCombinations(0, candidates, target, ans, new ArrayList < > ());
-        return ans;
+    public List<List<Integer>> combinationSum2(int[] nums, int target) {
+         List<List<Integer>> list=new ArrayList<>();
+        Arrays.sort(nums);
+        Backtrack(list,new ArrayList<>(),nums,target,0);
+        return list;
     }
-    static void findCombinations(int ind, int[] arr, int target, List < List < Integer >> ans, List < Integer > ds) {
-        if (target == 0) {
-            ans.add(new ArrayList < > (ds));
-            return;
-        }
-
-        for (int i = ind; i < arr.length; i++) {
-            if (i > ind && arr[i] == arr[i - 1]) continue;
-            if (arr[i] > target) break;
-
-            ds.add(arr[i]);
-            findCombinations(i + 1, arr, target - arr[i], ans, ds);
-            ds.remove(ds.size() - 1);
+    private void Backtrack(List<List<Integer>> list,List<Integer>tempList,int[]nums,int target,int start){
+        if(target<0) return;
+        else if(target==0) list.add(new ArrayList<>(tempList));
+        else{
+            for(int i=start;i<nums.length;i++){
+                if(i>start && nums[i]==nums[i-1]) continue;
+                tempList.add(nums[i]);
+                Backtrack(list,tempList,nums,target-nums[i],i+1);
+                tempList.remove(tempList.size()-1);
+                
+            }
         }
     }
 }
