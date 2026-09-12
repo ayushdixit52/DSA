@@ -1,25 +1,26 @@
 class Solution {
-    public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> r=new ArrayList<>();
-        premu(nums,0,r);
-        return r;
+    public List<List<Integer>> permute(int[] arr) {
+        List<List<Integer>> ans=new ArrayList<>();
+        List<Integer>a=new ArrayList<>();
+        boolean[]check=new boolean[arr.length];
+        permutation(arr,ans,check,a);
+        return ans;
     }
-    private void premu(int[] nums,int i,List<List<Integer>> r){
-        if(i==nums.length){
-            List<Integer> permuta=new ArrayList<>();
-            for(int num:nums) permuta.add(num);
-            r.add(permuta);
-            return; 
+    static void permutation(int[]arr,List<List<Integer>> ans,boolean[]check,List<Integer>a){
+        int n=arr.length;
+        if(a.size()==n){
+            List<Integer>copy=new ArrayList<>(a);
+            ans.add(copy);
+            return;
         }
-        for(int j=i;j<nums.length;j++){
-            swap(i,nums,j);
-            premu(nums,i+1,r);
-            swap(i,nums,j);
+        for(int i=0;i<arr.length;i++){
+            if(!check[i]){
+                a.add(arr[i]);
+                check[i]=true;
+                permutation(arr,ans,check,a);
+                a.remove(a.size()-1);
+                check[i]=false;
+            }
         }
-    }
-    private  void swap(int i,int[]nums,int j){
-        int temp=nums[i];
-        nums[i]=nums[j];
-        nums[j]=temp;
     }
 }
