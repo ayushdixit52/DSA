@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ayushdixit52/DSA/tree/master/0115-distinct-subsequences) |
+| [0509-fibonacci-number](https://github.com/ayushdixit52/DSA/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -135,10 +136,12 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayushdixit52/DSA/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/ayushdixit52/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayushdixit52/DSA/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/ayushdixit52/DSA/tree/master/0509-fibonacci-number) |
 ## Algorithm X
 |  |
 | ------- |
@@ -148,4 +151,8 @@
 | ------- |
 | [0078-subsets](https://github.com/ayushdixit52/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushdixit52/DSA/tree/master/0090-subsets-ii) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ayushdixit52/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
