@@ -73,6 +73,7 @@
 | [0051-n-queens](https://github.com/ayushdixit52/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ayushdixit52/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushdixit52/DSA/tree/master/0090-subsets-ii) |
+| [0198-house-robber](https://github.com/ayushdixit52/DSA/tree/master/0198-house-robber) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
@@ -128,6 +129,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushdixit52/DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ayushdixit52/DSA/tree/master/0115-distinct-subsequences) |
+| [0198-house-robber](https://github.com/ayushdixit52/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/ayushdixit52/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushdixit52/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
