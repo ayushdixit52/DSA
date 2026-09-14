@@ -126,6 +126,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ayushdixit52/DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ayushdixit52/DSA/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/ayushdixit52/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushdixit52/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayushdixit52/DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/ayushdixit52/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ayushdixit52/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushdixit52/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -156,6 +158,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ayushdixit52/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ayushdixit52/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushdixit52/DSA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
