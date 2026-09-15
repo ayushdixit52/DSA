@@ -60,6 +60,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ayushdixit52/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ayushdixit52/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/ayushdixit52/DSA/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushdixit52/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
 ## Array
@@ -75,6 +76,7 @@
 | [0090-subsets-ii](https://github.com/ayushdixit52/DSA/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/ayushdixit52/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushdixit52/DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/ayushdixit52/DSA/tree/master/0322-coin-change) |
 | [0740-delete-and-earn](https://github.com/ayushdixit52/DSA/tree/master/0740-delete-and-earn) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Search
@@ -134,6 +136,7 @@
 | [0115-distinct-subsequences](https://github.com/ayushdixit52/DSA/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/ayushdixit52/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushdixit52/DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/ayushdixit52/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/ayushdixit52/DSA/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/ayushdixit52/DSA/tree/master/0740-delete-and-earn) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushdixit52/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -168,4 +171,12 @@
 | [0070-climbing-stairs](https://github.com/ayushdixit52/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ayushdixit52/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushdixit52/DSA/tree/master/1137-n-th-tribonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ayushdixit52/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ayushdixit52/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
