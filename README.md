@@ -83,6 +83,7 @@
 | [0046-permutations](https://github.com/ayushdixit52/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushdixit52/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ayushdixit52/DSA/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/ayushdixit52/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ayushdixit52/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushdixit52/DSA/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdixit52/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ayushdixit52/DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ayushdixit52/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdixit52/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushdixit52/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Interactive
@@ -149,6 +151,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ayushdixit52/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/ayushdixit52/DSA/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/ayushdixit52/DSA/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -233,4 +236,12 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ayushdixit52/DSA/tree/master/0076-minimum-window-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayushdixit52/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayushdixit52/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
