@@ -30,6 +30,7 @@
 | [0437-path-sum-iii](https://github.com/ayushdixit52/DSA/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/ayushdixit52/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushdixit52/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0322-coin-change](https://github.com/ayushdixit52/DSA/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushdixit52/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Array
 |  |
 | ------- |
@@ -179,4 +181,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ayushdixit52/DSA/tree/master/0322-coin-change) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
