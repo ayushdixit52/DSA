@@ -84,6 +84,7 @@
 | [0051-n-queens](https://github.com/ayushdixit52/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ayushdixit52/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushdixit52/DSA/tree/master/0090-subsets-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdixit52/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ayushdixit52/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ayushdixit52/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ayushdixit52/DSA/tree/master/0213-house-robber-ii) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushdixit52/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdixit52/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushdixit52/DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## String Matching
 |  |
@@ -134,6 +136,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdixit52/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushdixit52/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Interactive
 |  |
