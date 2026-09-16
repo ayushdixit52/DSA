@@ -76,6 +76,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayushdixit52/DSA/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushdixit52/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/ayushdixit52/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayushdixit52/DSA/tree/master/0040-combination-sum-ii) |
@@ -136,6 +137,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayushdixit52/DSA/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdixit52/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushdixit52/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Interactive
@@ -145,6 +147,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayushdixit52/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/ayushdixit52/DSA/tree/master/0047-permutations-ii) |
 ## Dynamic Programming
 |  |
