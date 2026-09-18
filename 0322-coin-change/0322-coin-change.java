@@ -1,9 +1,9 @@
 class Solution {
-    public int coinChange(int[] coins, int amount) {
-        int[] dp = new int[amount + 1];
+    public int coinChange(int[] coins, int sum) {
+        int[] dp = new int[sum + 1];
         Arrays.fill(dp, -1);
 
-        int ans = solve(coins, amount, dp);
+        int ans = solve(coins, sum, dp);
 
         return ans == 1000000 ? -1 : ans;
     }
@@ -16,10 +16,9 @@ class Solution {
         if (amount < 0) {
             return 1000000;
         }
+        if (dp[amount] != -1) return dp[amount];
 
-        if (dp[amount] != -1) {
-            return dp[amount];
-        }
+       
 
         int ans = 1000000;
 
@@ -28,5 +27,6 @@ class Solution {
         }
 
         return dp[amount] = ans;
+        
     }
 }
