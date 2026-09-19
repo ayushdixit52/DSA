@@ -106,6 +106,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ayushdixit52/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/ayushdixit52/DSA/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/ayushdixit52/DSA/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/ayushdixit52/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/ayushdixit52/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -144,6 +145,7 @@
 | [0015-3sum](https://github.com/ayushdixit52/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ayushdixit52/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ayushdixit52/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/ayushdixit52/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdixit52/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushdixit52/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Interactive
