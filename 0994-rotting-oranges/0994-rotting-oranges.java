@@ -1,13 +1,13 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
         if(grid == null || grid.length == 0) return 0;
-        int rows = grid.length;
-        int cols = grid[0].length;
+        int m = grid.length;
+        int n = grid[0].length;
         Queue<int[]> queue = new LinkedList<>();
         int count_fresh = 0;
         
-        for(int i = 0 ; i < rows ; i++) {
-            for(int j = 0 ; j < cols ; j++) {
+        for(int i = 0 ; i < m ; i++) {
+            for(int j = 0 ; j < n ; j++) {
                 if(grid[i][j] == 2) {
                     queue.offer(new int[]{i,j});
                 }
@@ -18,28 +18,38 @@ class Solution {
         }
 
         if(count_fresh == 0) return 0;
-        int count = 0;
-        int[][] dirs = {{1,0},{-1,0},{0,1},{0,-1}};
-       
-        while(!queue.isEmpty()) {
-            ++count;
-            int size = queue.size();
-            for(int i = 0 ; i < size ; i++) {
-                int[] point = queue.poll();
-                for(int dir[] : dirs) {
-                    int x = point[0] + dir[0];
-                    int y = point[1] + dir[1];
-                  
-                    if(x < 0 || y < 0 || x >= rows || y >= cols || grid[x][y] == 0 || grid[x][y] == 2) continue;
-                    
-                    grid[x][y] = 2;
-                    
-                    queue.offer(new int[]{x , y});
-                    
-                    count_fresh--;
-                }
-            }
+        int minutes=0;
+        while(!queue.isEmpty()){
+            int size=queue.size();
+            minutes++;
+        
+        for(int i=0;i<size;i++){
+            int[]current=queue.poll();
+            int r=current[0];
+            int c=current[1];
+        
+        if(r-1>=0 && grid[r-1][c]==1){
+            grid[r-1][c]=2;
+            count_fresh--;
+            queue.offer(new int[]{r-1,c});
         }
-        return count_fresh == 0 ? count-1 : -1;
+        if(r+1<m && grid[r+1][c]==1){
+            grid[r+1][c]=2;
+            count_fresh--;
+            queue.offer(new int[]{r+1,c});
+        }
+        if(c-1>=0 && grid[r][c-1]==1){
+            grid[r][c-1]=2;
+            count_fresh--;
+            queue.offer(new int[]{r,c-1});
+        }
+        if(c+1<n && grid[r][c+1]==1){
+            grid[r][c+1]=2;
+            count_fresh--;
+            queue.offer(new int[]{r,c+1});
+        }
+        }}
+        return count_fresh==0?minutes-1:-1;
+        
     }
 }
