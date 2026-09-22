@@ -99,6 +99,7 @@
 | [0322-coin-change](https://github.com/ayushdixit52/DSA/tree/master/0322-coin-change) |
 | [0740-delete-and-earn](https://github.com/ayushdixit52/DSA/tree/master/0740-delete-and-earn) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ayushdixit52/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/ayushdixit52/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ayushdixit52/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/ayushdixit52/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ayushdixit52/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ayushdixit52/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
