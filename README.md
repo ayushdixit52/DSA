@@ -34,6 +34,7 @@
 | [0547-number-of-provinces](https://github.com/ayushdixit52/DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ayushdixit52/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushdixit52/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/ayushdixit52/DSA/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushdixit52/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ayushdixit52/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -73,6 +74,7 @@
 | [0322-coin-change](https://github.com/ayushdixit52/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/ayushdixit52/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushdixit52/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/ayushdixit52/DSA/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushdixit52/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ayushdixit52/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
@@ -231,6 +233,7 @@
 | [0207-course-schedule](https://github.com/ayushdixit52/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushdixit52/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ayushdixit52/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/ayushdixit52/DSA/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushdixit52/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ayushdixit52/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -278,4 +281,16 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushdixit52/DSA/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ayushdixit52/DSA/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ayushdixit52/DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ayushdixit52/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
