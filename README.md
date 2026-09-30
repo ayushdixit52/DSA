@@ -104,6 +104,7 @@
 | [0213-house-robber-ii](https://github.com/ayushdixit52/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ayushdixit52/DSA/tree/master/0322-coin-change) |
 | [0740-delete-and-earn](https://github.com/ayushdixit52/DSA/tree/master/0740-delete-and-earn) |
+| [0875-koko-eating-bananas](https://github.com/ayushdixit52/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/ayushdixit52/DSA/tree/master/0997-find-the-town-judge) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ayushdixit52/DSA/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -114,6 +115,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushdixit52/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdixit52/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushdixit52/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0875-koko-eating-bananas](https://github.com/ayushdixit52/DSA/tree/master/0875-koko-eating-bananas) |
 ## String Matching
 |  |
 | ------- |
