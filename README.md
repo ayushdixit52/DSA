@@ -109,6 +109,7 @@
 | [0997-find-the-town-judge](https://github.com/ayushdixit52/DSA/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushdixit52/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushdixit52/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ayushdixit52/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ayushdixit52/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ayushdixit52/DSA/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ayushdixit52/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -121,6 +122,7 @@
 | [0875-koko-eating-bananas](https://github.com/ayushdixit52/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushdixit52/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushdixit52/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ayushdixit52/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ayushdixit52/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## String Matching
 |  |
@@ -180,6 +182,7 @@
 | [0015-3sum](https://github.com/ayushdixit52/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/ayushdixit52/DSA/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/ayushdixit52/DSA/tree/master/0075-sort-colors) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ayushdixit52/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
