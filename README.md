@@ -95,6 +95,7 @@
 | [0046-permutations](https://github.com/ayushdixit52/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushdixit52/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ayushdixit52/DSA/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/ayushdixit52/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayushdixit52/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ayushdixit52/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushdixit52/DSA/tree/master/0090-subsets-ii) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushdixit52/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/ayushdixit52/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdixit52/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushdixit52/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/ayushdixit52/DSA/tree/master/0410-split-array-largest-sum) |
@@ -204,6 +206,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ayushdixit52/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ayushdixit52/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ayushdixit52/DSA/tree/master/2304-minimum-path-cost-in-a-grid) |
