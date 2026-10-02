@@ -103,6 +103,7 @@
 | [0200-number-of-islands](https://github.com/ayushdixit52/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ayushdixit52/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ayushdixit52/DSA/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/ayushdixit52/DSA/tree/master/0410-split-array-largest-sum) |
 | [0740-delete-and-earn](https://github.com/ayushdixit52/DSA/tree/master/0740-delete-and-earn) |
 | [0875-koko-eating-bananas](https://github.com/ayushdixit52/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
@@ -119,6 +120,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushdixit52/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdixit52/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushdixit52/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/ayushdixit52/DSA/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/ayushdixit52/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushdixit52/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushdixit52/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -192,6 +194,7 @@
 | [0198-house-robber](https://github.com/ayushdixit52/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushdixit52/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ayushdixit52/DSA/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/ayushdixit52/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/ayushdixit52/DSA/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/ayushdixit52/DSA/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushdixit52/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -298,6 +301,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushdixit52/DSA/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/ayushdixit52/DSA/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
 | ------- |
@@ -330,4 +334,8 @@
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushdixit52/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ayushdixit52/DSA/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
