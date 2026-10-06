@@ -23,6 +23,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushdixit52/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushdixit52/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
@@ -71,6 +72,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushdixit52/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushdixit52/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Lifting
 |  |
@@ -189,6 +191,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushdixit52/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
