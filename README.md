@@ -16,6 +16,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ayushdixit52/DSA/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ayushdixit52/DSA/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/ayushdixit52/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -36,6 +37,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ayushdixit52/DSA/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ayushdixit52/DSA/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/ayushdixit52/DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ayushdixit52/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -61,6 +63,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ayushdixit52/DSA/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ayushdixit52/DSA/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/ayushdixit52/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -87,6 +90,7 @@
 | [0200-number-of-islands](https://github.com/ayushdixit52/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ayushdixit52/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushdixit52/DSA/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/ayushdixit52/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/ayushdixit52/DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -155,6 +159,7 @@
 | [0115-distinct-subsequences](https://github.com/ayushdixit52/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayushdixit52/DSA/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/ayushdixit52/DSA/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ayushdixit52/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -373,4 +378,8 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushdixit52/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushdixit52/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushdixit52/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushdixit52/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
