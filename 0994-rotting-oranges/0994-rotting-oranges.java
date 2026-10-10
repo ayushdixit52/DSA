@@ -1,55 +1,56 @@
 class Solution {
-    public int orangesRotting(int[][] grid) {
-        if(grid == null || grid.length == 0) return 0;
-        int m = grid.length;
-        int n = grid[0].length;
-        Queue<int[]> queue = new LinkedList<>();
-        int count_fresh = 0;
+    public class Triplet{
+        int row;
+        int col;
+        int time;
+        Triplet(int row,int col,int time){
+            this.row=row;
+            this.col=col;
+            this.time=time;
+        }
+    }
+    public int orangesRotting(int[][] arr) {
+        int m=arr.length;
+        int n=arr[0].length;
         
-        for(int i = 0 ; i < m ; i++) {
-            for(int j = 0 ; j < n ; j++) {
-                if(grid[i][j] == 2) {
-                    queue.offer(new int[]{i,j});
-                }
-                else if(grid[i][j] == 1) {
-                    count_fresh++;
+        Queue<Triplet>q=new LinkedList<>();
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(arr[i][j]==2){
+                    q.add(new Triplet(i,j,0));
                 }
             }
         }
-
-        if(count_fresh == 0) return 0;
-        int minutes=0;
-        while(!queue.isEmpty()){
-            int size=queue.size();
-            minutes++;
-        
-        for(int i=0;i<size;i++){
-            int[]current=queue.poll();
-            int r=current[0];
-            int c=current[1];
-        
-        if(r-1>=0 && grid[r-1][c]==1){
-            grid[r-1][c]=2;
-            count_fresh--;
-            queue.offer(new int[]{r-1,c});
+        int maxTime=0;
+        while(!q.isEmpty()){
+            Triplet front=q.poll();
+            int row=front.row,col=front.col,time=front.time;
+            maxTime=Math.max(maxTime,time);
+            if(row-1>=0 && arr[row-1][col]==1){
+                arr[row-1][col]=2;
+                q.add(new Triplet(row-1,col,time+1));
+            }
+             if(row+1<m && arr[row+1][col]==1){
+                arr[row+1][col]=2;
+                q.add(new Triplet(row+1,col,time+1));
+            }
+             if(col-1>=0 && arr[row][col-1]==1){
+                arr[row][col-1]=2;
+                q.add(new Triplet(row,col-1,time+1));
+            }
+             if(col+1<n && arr[row][col+1]==1){
+                arr[row][col+1]=2;
+                q.add(new Triplet(row,col+1,time+1));
+            }
+            
         }
-        if(r+1<m && grid[r+1][c]==1){
-            grid[r+1][c]=2;
-            count_fresh--;
-            queue.offer(new int[]{r+1,c});
+          for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(arr[i][j]==1){
+                  return -1;
+                }
+            }
         }
-        if(c-1>=0 && grid[r][c-1]==1){
-            grid[r][c-1]=2;
-            count_fresh--;
-            queue.offer(new int[]{r,c-1});
-        }
-        if(c+1<n && grid[r][c+1]==1){
-            grid[r][c+1]=2;
-            count_fresh--;
-            queue.offer(new int[]{r,c+1});
-        }
-        }}
-        return count_fresh==0?minutes-1:-1;
-        
+        return maxTime;
     }
 }
