@@ -51,6 +51,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/ayushdixit52/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ayushdixit52/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ayushdixit52/DSA/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/ayushdixit52/DSA/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushdixit52/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -108,6 +109,7 @@
 | [0802-find-eventual-safe-states](https://github.com/ayushdixit52/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ayushdixit52/DSA/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/ayushdixit52/DSA/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushdixit52/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Array
@@ -142,6 +144,7 @@
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/ayushdixit52/DSA/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushdixit52/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/ayushdixit52/DSA/tree/master/1020-number-of-enclaves) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushdixit52/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushdixit52/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ayushdixit52/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -253,6 +256,7 @@
 | [0200-number-of-islands](https://github.com/ayushdixit52/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushdixit52/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/ayushdixit52/DSA/tree/master/1020-number-of-enclaves) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ayushdixit52/DSA/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ayushdixit52/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
@@ -295,6 +299,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/ayushdixit52/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayushdixit52/DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/ayushdixit52/DSA/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushdixit52/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
