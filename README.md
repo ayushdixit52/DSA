@@ -50,6 +50,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushdixit52/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushdixit52/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ayushdixit52/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/ayushdixit52/DSA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushdixit52/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -105,6 +106,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushdixit52/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushdixit52/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ayushdixit52/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/ayushdixit52/DSA/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushdixit52/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -305,6 +307,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushdixit52/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushdixit52/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ayushdixit52/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/ayushdixit52/DSA/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/ayushdixit52/DSA/tree/master/0997-find-the-town-judge) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushdixit52/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1791-find-center-of-star-graph](https://github.com/ayushdixit52/DSA/tree/master/1791-find-center-of-star-graph) |
