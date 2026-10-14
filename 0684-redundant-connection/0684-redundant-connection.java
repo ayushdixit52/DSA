@@ -39,7 +39,7 @@ class Solution {
                 return edge;
             }
         }
-        return new int[10];
+        return new int[5];
         
     }
 }
