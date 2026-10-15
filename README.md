@@ -52,6 +52,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/ayushdixit52/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ayushdixit52/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ayushdixit52/DSA/tree/master/0841-keys-and-rooms) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ayushdixit52/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/ayushdixit52/DSA/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushdixit52/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -212,6 +213,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushdixit52/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/ayushdixit52/DSA/tree/master/0740-delete-and-earn) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushdixit52/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ayushdixit52/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/ayushdixit52/DSA/tree/master/0997-find-the-town-judge) |
 ## Two Pointers
 |  |
@@ -302,6 +304,7 @@
 | [0200-number-of-islands](https://github.com/ayushdixit52/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayushdixit52/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ayushdixit52/DSA/tree/master/0684-redundant-connection) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ayushdixit52/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/ayushdixit52/DSA/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushdixit52/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -317,6 +320,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/ayushdixit52/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ayushdixit52/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ayushdixit52/DSA/tree/master/0841-keys-and-rooms) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ayushdixit52/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/ayushdixit52/DSA/tree/master/0997-find-the-town-judge) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushdixit52/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1791-find-center-of-star-graph](https://github.com/ayushdixit52/DSA/tree/master/1791-find-center-of-star-graph) |
@@ -413,4 +417,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ayushdixit52/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ayushdixit52/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
