@@ -329,6 +329,7 @@
 | [1791-find-center-of-star-graph](https://github.com/ayushdixit52/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushdixit52/DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [2924-find-champion-ii](https://github.com/ayushdixit52/DSA/tree/master/2924-find-champion-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ayushdixit52/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Directed Acyclic Graph
 |  |
