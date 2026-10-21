@@ -54,6 +54,7 @@
 | [0841-keys-and-rooms](https://github.com/ayushdixit52/DSA/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ayushdixit52/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/ayushdixit52/DSA/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/ayushdixit52/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushdixit52/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -113,6 +114,7 @@
 | [0841-keys-and-rooms](https://github.com/ayushdixit52/DSA/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ayushdixit52/DSA/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/ayushdixit52/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushdixit52/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Array
@@ -151,6 +153,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushdixit52/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushdixit52/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ayushdixit52/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/ayushdixit52/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ayushdixit52/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ayushdixit52/DSA/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ayushdixit52/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -167,6 +170,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushdixit52/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushdixit52/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushdixit52/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/ayushdixit52/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ayushdixit52/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## String Matching
 |  |
@@ -262,6 +266,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushdixit52/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ayushdixit52/DSA/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/ayushdixit52/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ayushdixit52/DSA/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ayushdixit52/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
@@ -308,6 +313,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ayushdixit52/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/ayushdixit52/DSA/tree/master/1020-number-of-enclaves) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ayushdixit52/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/ayushdixit52/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit52/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushdixit52/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -381,6 +387,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/ayushdixit52/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushdixit52/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/ayushdixit52/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
@@ -392,6 +399,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/ayushdixit52/DSA/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushdixit52/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1631-path-with-minimum-effort](https://github.com/ayushdixit52/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
