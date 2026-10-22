@@ -145,6 +145,7 @@
 | [0322-coin-change](https://github.com/ayushdixit52/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ayushdixit52/DSA/tree/master/0410-split-array-largest-sum) |
 | [0740-delete-and-earn](https://github.com/ayushdixit52/DSA/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/ayushdixit52/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/ayushdixit52/DSA/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushdixit52/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
@@ -256,6 +257,7 @@
 | [0410-split-array-largest-sum](https://github.com/ayushdixit52/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/ayushdixit52/DSA/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/ayushdixit52/DSA/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/ayushdixit52/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushdixit52/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushdixit52/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushdixit52/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
