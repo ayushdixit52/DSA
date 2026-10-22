@@ -160,6 +160,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ayushdixit52/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ayushdixit52/DSA/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ayushdixit52/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ayushdixit52/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
