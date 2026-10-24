@@ -159,6 +159,7 @@
 | [1631-path-with-minimum-effort](https://github.com/ayushdixit52/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ayushdixit52/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ayushdixit52/DSA/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ayushdixit52/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ayushdixit52/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ayushdixit52/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -296,6 +297,7 @@
 | ------- |
 | [0078-subsets](https://github.com/ayushdixit52/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushdixit52/DSA/tree/master/0090-subsets-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ayushdixit52/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Memoization
 |  |
 | ------- |
