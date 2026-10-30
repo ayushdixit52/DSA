@@ -267,6 +267,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/ayushdixit52/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushdixit52/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ayushdixit52/DSA/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2376-count-special-integers](https://github.com/ayushdixit52/DSA/tree/master/2376-count-special-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -287,6 +288,7 @@
 | [0070-climbing-stairs](https://github.com/ayushdixit52/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ayushdixit52/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushdixit52/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [2376-count-special-integers](https://github.com/ayushdixit52/DSA/tree/master/2376-count-special-integers) |
 ## Recursion
 |  |
 | ------- |
