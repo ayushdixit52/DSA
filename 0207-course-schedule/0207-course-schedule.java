@@ -11,23 +11,25 @@ class Solution {
             graph.get(v).add(u);
             indegree[u]+=1;
         }
-        int c=0;
         Queue<Integer>q=new LinkedList<>();
-        for(int i=0;i<indegree.length;i++){
+        for(int i=0;i<n;i++){
             if(indegree[i]==0){
-                q.offer(i);
+                q.add(i);
             }
         }
-        while(q.size()!=0){
-            int ele=q.poll();
-            c++;
-            for(int nbr:graph.get(ele)){
-                indegree[nbr]-=1;
+        List<Integer>ans=new ArrayList<>();
+        while(!q.isEmpty()){
+            int node=q.poll();
+            ans.add(node);
+            for(int nbr:graph.get(node)){
+                indegree[nbr]--;
                 if(indegree[nbr]==0){
-                   q.offer(nbr);
+                    q.add(nbr);
                 }
             }
+
         }
-        return c==n;
+        return ans.size()==n;
+        
     }
 }
