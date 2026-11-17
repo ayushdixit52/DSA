@@ -139,6 +139,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushdixit52/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushdixit52/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushdixit52/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/ayushdixit52/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdixit52/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ayushdixit52/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ayushdixit52/DSA/tree/master/0200-number-of-islands) |
@@ -303,6 +304,7 @@
 | ------- |
 | [0078-subsets](https://github.com/ayushdixit52/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushdixit52/DSA/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ayushdixit52/DSA/tree/master/0136-single-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ayushdixit52/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Memoization
 |  |
