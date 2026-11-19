@@ -132,6 +132,7 @@
 | [0046-permutations](https://github.com/ayushdixit52/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushdixit52/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ayushdixit52/DSA/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/ayushdixit52/DSA/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ayushdixit52/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayushdixit52/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ayushdixit52/DSA/tree/master/0078-subsets) |
@@ -255,6 +256,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushdixit52/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/ayushdixit52/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ayushdixit52/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ayushdixit52/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ayushdixit52/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ayushdixit52/DSA/tree/master/0115-distinct-subsequences) |
@@ -273,6 +275,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/ayushdixit52/DSA/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ayushdixit52/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ayushdixit52/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushdixit52/DSA/tree/master/0240-search-a-2d-matrix-ii) |
