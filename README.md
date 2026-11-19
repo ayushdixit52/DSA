@@ -254,6 +254,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushdixit52/DSA/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/ayushdixit52/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayushdixit52/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ayushdixit52/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ayushdixit52/DSA/tree/master/0115-distinct-subsequences) |
@@ -286,6 +287,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayushdixit52/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ayushdixit52/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayushdixit52/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ayushdixit52/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushdixit52/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -465,4 +467,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ayushdixit52/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ayushdixit52/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
