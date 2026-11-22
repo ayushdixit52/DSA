@@ -155,6 +155,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/ayushdixit52/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/ayushdixit52/DSA/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushdixit52/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0931-minimum-falling-path-sum](https://github.com/ayushdixit52/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/ayushdixit52/DSA/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushdixit52/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -272,6 +273,7 @@
 | [0740-delete-and-earn](https://github.com/ayushdixit52/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushdixit52/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushdixit52/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/ayushdixit52/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushdixit52/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushdixit52/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ayushdixit52/DSA/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -285,6 +287,7 @@
 | [0200-number-of-islands](https://github.com/ayushdixit52/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushdixit52/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/ayushdixit52/DSA/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/ayushdixit52/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ayushdixit52/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayushdixit52/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
