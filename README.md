@@ -152,6 +152,7 @@
 | [0410-split-array-largest-sum](https://github.com/ayushdixit52/DSA/tree/master/0410-split-array-largest-sum) |
 | [0733-flood-fill](https://github.com/ayushdixit52/DSA/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/ayushdixit52/DSA/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/ayushdixit52/DSA/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushdixit52/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/ayushdixit52/DSA/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushdixit52/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -271,6 +272,7 @@
 | [0410-split-array-largest-sum](https://github.com/ayushdixit52/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/ayushdixit52/DSA/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/ayushdixit52/DSA/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/ayushdixit52/DSA/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushdixit52/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushdixit52/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/ayushdixit52/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -287,6 +289,7 @@
 | [0200-number-of-islands](https://github.com/ayushdixit52/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushdixit52/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/ayushdixit52/DSA/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/ayushdixit52/DSA/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/ayushdixit52/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/ayushdixit52/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ayushdixit52/DSA/tree/master/1020-number-of-enclaves) |
